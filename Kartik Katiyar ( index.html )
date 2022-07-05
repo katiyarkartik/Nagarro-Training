@@ -5,27 +5,31 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>July 4 2022
+    <title>PokePedia
 
     </title>
 </head>
 
-<body>
+<body bgcolor="yellow">
     <center>
-        <h1><b>
-                Pokemon
+        <h1 style="background-color:rgb(231, 22, 22); color:white;"><b>
+          PokePedia
             </b></h1>
-        <hr color="red" size="5px">
-        <p><b><em>Pokémon</em></b> is a Japanese media franchise managed by
-            The Pokémon Company, a company founded by Nintendo, Game Freak, and Creatures. The franchise was created by
-            Satoshi Tajiri in 1996, and is centered on fictional creatures called "Pokémon". In Pokémon, humans, known
-            as
-            Pokémon Trainers, catch and train Pokémon to battle other Pokémon for sport. All media works within the
-            franchise are set in the Pokémon universe. The English slogan for the franchise is "Gotta Catch ‘Em All!".
-            There are currently 913 Pokémon species.</p>
-        <img width="500px"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png" />
-       
+        <hr color="white" size="5px">
+            <h2><b><em>What is Pokémon???</em></b></h2>
+            <img width="600px"
+            src="https://pngimg.com/uploads/pokeball/pokeball_PNG21.png" style="margin-bottom:100px"></img>
+
+          <div width="50%">
+            <p style="color:rgb(255, 10, 10);font-size: 1.3rem;margin-bottom:20px;"><b><em>Pokémon</em></b> is a Japanese media franchise managed by
+              The Pokémon Company, a company founded by Nintendo, Game Freak, and Creatures. The franchise was created by
+              Satoshi Tajiri in 1996, and is centered on fictional creatures called "Pokémon". In Pokémon, humans, known
+              as
+              Pokémon Trainers, catch and train Pokémon to battle other Pokémon for sport. All media works within the
+              franchise are set in the Pokémon universe. The English slogan for the franchise is "Gotta Catch ‘Em All!".
+              There are currently 913 Pokémon species.</p>
+          </div>
+         
         <h1>Ash Ketchum</h1>
         <hr width="30%" color="blue">
 
@@ -39,14 +43,15 @@
             he becomes the first Champion of the Alola region's Pokémon League. In Pokémon Journeys: The Series, he
             becomes one of the eight best Trainers in the world within the World Coronation Series.</p>
 
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlLgVFvZAALXPOaLEIowJtC8vGXS8G2nthbQ&usqp=CAU"
+        <img src="https://o.remove.bg/downloads/f9ae5f5b-a61d-4279-aac3-74da2920df0b/11604235934389qavhanaixqkiebrrcm4tbke899jipdqpxabg5gbzbf92jwmlbz322enwtyyy5ey9b2uf5kazhyxwzhcdhsrrrwgczwzsjhem8-removebg-preview.png"
             alt="">
 
         <h2>Ash's Pokemon</h2>
-        <img width="300px" src="https://assets.puzzlefactory.com/puzzle/254/191/original.jpg" alt="" />
+        <img width="300px" src="https://o.remove.bg/downloads/bce80824-646a-445c-b762-12634d08f02e/png-transparent-pokemon-pikachu-illustration-icon-pikachu-background-mammal-food-vertebrate-removebg-preview.png" alt="" />
         <img width="300px"
-            src="https://png.pngitem.com/pimgs/s/130-1306754_pokemon-bulbasaur-hd-png-download.png" />
+            src="https://o.remove.bg/downloads/f0576e2e-8084-454d-9673-2336e7086246/pikachu-squirtle-pok-mon-pok-ball-bulbasaur-png-favpng-nuwg6aXPRSSxKC1XJUHiqNz0M-removebg-preview.png" />
         <img width="350px" src="https://upload.wikimedia.org/wikipedia/en/1/1f/Pok%C3%A9mon_Charizard_art.png" />
+        <img width="350px" src="https://o.remove.bg/downloads/6624ae21-512c-4f96-8abb-65d24f6c8d73/2fd8ceecd7969d9882061fd84b927eeb-removebg-preview.png" />
         
         <h1>Garry Oak</h1>
         <hr width="30%" color="blue">
@@ -58,11 +63,11 @@
             Gary was originally close to Ash when they were younger, though their friendship ended after having an
             argument over an old Poké Ball and eventually breaking it. After losing to Ash in the first round of the
             Silver League Conference, the two eventually became friends again altogether.</p>
-        <img src="https://www.absoluteanime.com/pokemon/gary.gif" />
+        <img src="https://o.remove.bg/downloads/72b4937a-ec4c-435b-83a1-c57a7d770821/Gary_Oak-removebg-preview.png" />
         <h2>Garry's Pokemon</h2>
 
         <img width="300px"
-            src="https://2.bp.blogspot.com/-atzUuc_vK_Y/VuYP0hNemgI/AAAAAAAAF8s/3G9YSKC439k3x14QbuWOcvXJVEMxaFZbA/s1600/Squirtle.PNG" />
+            src="https://o.remove.bg/downloads/f0576e2e-8084-454d-9673-2336e7086246/pikachu-squirtle-pok-mon-pok-ball-bulbasaur-png-favpng-nuwg6aXPRSSxKC1XJUHiqNz0M-removebg-preview.png" />
         <img width="300px"
             src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png" />
         <img width="320px" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/466.png" />
@@ -71,7 +76,7 @@
 
         <div align="center">
             <h1 align="center">Pokemon Clips</h1>
-            <iframe width="25%" height="195" src="https://www.youtube.com/embed/AG4GSlMhGHs"></iframe>
+            <iframe autoplay="true" width="25%" height="195" src="https://www.youtube.com/embed/AG4GSlMhGHs"></iframe>
             <iframe width="25%" height="195" src="https://www.youtube.com/embed/YJ0Vxu4cW64"></iframe>
             <iframe width="25%" height="195" src="https://www.youtube.com/embed/dKPFcfXj8I4"></iframe>
         </div>
@@ -91,6 +96,11 @@
             <br />
 
     </center>
+
+    <footer style="background: #000;color: #fff;">
+      &#169; Developed and Edited by Ayan Malik
+    </footer>
 </body>
 
 </html>
+
